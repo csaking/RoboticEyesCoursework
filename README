@@ -1,0 +1,2 @@
+DISP_MAP.m is the entry point for the program.  Generates a basic binary disparity map for the 2 given images and displays this map to the user.
+Team Members: Peter McCartney, Craig Hutcheon, Conor King
